@@ -20,3 +20,7 @@ I'm currently learning Flutter as it was kind of interesting. Followed these cod
 Highly recommended if you're just starting out with Flutter.
 
 Flutter docs [here](https://flutter.io).
+
+##PRIVACY POLICY
+
+This app collects no data from you. Period.
