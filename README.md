@@ -21,6 +21,6 @@ Highly recommended if you're just starting out with Flutter.
 
 Flutter docs [here](https://flutter.io).
 
-##PRIVACY POLICY
+## PRIVACY POLICY
 
 This app collects no data from you. Period.
