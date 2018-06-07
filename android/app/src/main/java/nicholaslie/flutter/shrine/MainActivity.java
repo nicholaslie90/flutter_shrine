@@ -1,4 +1,4 @@
-package com.example.mdc100series;
+package nicholaslie.flutter.shrine;
 
 import android.os.Bundle;
 
